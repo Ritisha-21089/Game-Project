@@ -7,6 +7,5 @@ Tank Stars is A 2-player game that can be described as follows:
 As soon as any one of the tank's health reaches 0, The game ends, with the other player winning.
 
 We have encorporated the following design patterns:
-1.
-2.
-
+1. Prototype
+2. Iterator
